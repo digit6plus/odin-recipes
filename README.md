@@ -1,2 +1,2 @@
-# odin-recipes
-My first HTML project.
+# Yummy-recipes
+Here are three yummy and simple recipes.
